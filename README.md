@@ -2,8 +2,6 @@
 
 This sample function is a fairly minimal implementation of how you can do object detection inference in a Google Cloud Function. It will not assist in any of the training steps, for which I recommend Colaboratory or some other dedicated environment.
 
-Sample material will be provided to get you going quickly.
-
 **Note**:
 
 - This notebook should be able to "emulate" the experience of the function, but you will likely need to do a bit of copy-paste back-and-forth to ensure your real Cloud Function works as intended, as you make any changes of your own.
